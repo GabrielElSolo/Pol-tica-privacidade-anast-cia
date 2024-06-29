@@ -1,4 +1,4 @@
-## [Política de Privacidade e Termos 
+## [Política de Privacidade e Termos ]
 
 Bem-vindo à Anastacia! Ao usar nosso bot "Anastacia", você concorda com os seguintes termos:
 
@@ -19,10 +19,10 @@ Bem-vindo à Anastacia! Ao usar nosso bot "Anastacia", você concorda com os seg
 ### 5. Regras de Uso de Comandos
 - Não use contas secundárias para obter vantagens, isso resultará em banimento imediato.
 - Evite enviar comandos excessivos que possam poluir o chat.
-- Relate qualquer bug no [servidor de suporte]([[https://discord.com/invite/Kqw4G96fzQ]((https://discord.gg/z4MNRdHAvW) da Anastacia.
+- Relate qualquer bug no [servidor de suporte][https://discord.com/invite/Kqw4G96fzQ]((https://discord.gg/z4MNRdHAvW) da Anastacia.
 
 ### 6. Limitação de Responsabilidade
-- A Yuky é fornecida "como está", sem garantias de qualquer tipo, expressas ou implícitas.
+- A Anastafia é fornecida "como está", sem garantias de qualquer tipo, expressas ou implícitas.
 - A equipe da Anastacia não se responsabiliza por quaisquer danos diretos, indiretos, incidentais ou consequenciais resultantes do uso ou da incapacidade de usar o bot.
 - O uso da bot é por sua conta e risco; a responsabilidade por qualquer dano ao seu sistema ou perda de dados resultante da utilização do bot é exclusivamente sua.
 
